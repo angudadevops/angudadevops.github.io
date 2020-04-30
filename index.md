@@ -1,7 +1,7 @@
 # Projects
 
 ## Kubernetes
-There're multiple Ways to build your kubernetes cluster, here're some of my projects that can help you to build your clusters
+There're multiple ways to build your kubernetes cluster, here're some of my projects that can help you to build your clusters
 
 Kubernetes with Kubeadm
 - [Kubernetes on AWS with Terraform and Ansible](https://github.com/angudadevops/k8s_aws)
