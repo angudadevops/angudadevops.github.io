@@ -1,6 +1,8 @@
 # Skills
 - Python
-- Exploratory Data Analysis
-- Data Visualization
-- Relational Database Management
+- Kubernetes
+- AWS
+- Openshift
+- CI/CD
+- Terraform
 - Git & Github
