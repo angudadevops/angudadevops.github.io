@@ -10,7 +10,7 @@ Kubernetes with Kubeadm
 Kubernetes with Kops
 - [Kubernetes on AWS with Kops](https://github.com/angudadevops/k8kops_aws)
 
-- [Kubernetes Addons](https://github.com/angudadevops/k8s_addons)
+[Kubernetes Addons](https://github.com/angudadevops/k8s_addons)
 
 ## Python
 - [Python Web Devlopement](https://github.com/angudadevops/python)
