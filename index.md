@@ -6,8 +6,10 @@ There're multiple Ways to build your kubernetes cluster, here're some of my proj
 Kubernetes with Kubeadm
 - [Kubernetes on AWS with Terraform and Ansible](https://github.com/angudadevops/k8s_aws)
 - [Kubernetes on your own VM's](https://github.com/angudadevops/kubernetes_baremetal)
+
 Kubernetes with Kops
 - [Kubernetes on AWS with Kops](https://github.com/angudadevops/k8kops_aws)
+
 - [Kubernetes Addons](https://github.com/angudadevops/k8s_addons)
 
 ## Python
