@@ -3,12 +3,18 @@
 ## Kubernetes
 There're multiple ways to build your kubernetes cluster, here're some of my projects that can help you to build your clusters
 
+- [Single Node Kubernetes Cluster](https://github.com/angudadevops/singlenode_kubernetes)
+
 - [Kubernetes on your own VM's](https://github.com/angudadevops/kubernetes_baremetal)
 - [Kubernetes on AWS with Terraform and Ansible](https://github.com/angudadevops/k8s_aws)
 
 - [Kubernetes on AWS with Kops](https://github.com/angudadevops/k8kops_aws)
 
 - [Kubernetes Addons](https://github.com/angudadevops/k8s_addons)
+
+## CI/CD
+
+- [Spinnaker Setup](https://github.com/angudadevops/spinnaker)
 
 ## Python
 - [Python Scripting](https://github.com/angudadevops/Python-Scripting)
