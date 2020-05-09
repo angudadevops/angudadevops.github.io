@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages. [![HitCount](http://hits.dwyl.com/angudadevops/angudadevops.github.io.svg)](http://hits.dwyl.com/angudadevops/angudadevops.github.io)
 
 You can use the [editor on GitHub](https://github.com/angudadevops/angudadevops.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
