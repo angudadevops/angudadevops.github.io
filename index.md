@@ -12,6 +12,10 @@ There're multiple ways to build your kubernetes cluster, here're some of my proj
 
 - [Kubernetes Addons](https://github.com/angudadevops/k8s_addons)
 
+## Hashi Corp Stack
+
+- [Hashi Corp Tools](https://github.com/angudadevops/hashi-stack)
+
 ## CI/CD
 
 - [Spinnaker Setup](https://github.com/angudadevops/spinnaker)
