@@ -24,7 +24,11 @@ There're multiple ways to build your kubernetes cluster, here're some of my proj
 - [Python Scripting](https://github.com/angudadevops/Python-Scripting)
 - [Python Web Devlopement](https://github.com/angudadevops/Python-Developement)
 
+## Go
+- [Go Web Application](https://github.com/angudadevops/golang_webapp)
+
 # Skills
+- Go
 - Python
 - Kubernetes
 - Docker
