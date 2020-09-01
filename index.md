@@ -27,10 +27,14 @@ There're multiple ways to build your kubernetes cluster, here're some of my proj
 ## Go
 - [Go Web Application](https://github.com/angudadevops/golang_webapp)
 
+## OpenTracing
+- [Jaeger](https://github.com/angudadevops/jaeger-k8s)
+
 # Skills
 - Go
 - Python
 - Kubernetes
+- Jaeger
 - Docker
 - AWS
 - Openshift
