@@ -4,12 +4,13 @@
 There're multiple ways to build your kubernetes cluster, here're some of my projects that can help you to build your clusters
 
 - [Single Node Kubernetes Cluster](https://github.com/angudadevops/singlenode_kubernetes)
-
 - [Kubernetes on your own VM's](https://github.com/angudadevops/kubernetes_baremetal)
-- [Kubernetes on AWS with Terraform and Ansible](https://github.com/angudadevops/k8s_aws)
 
+### Cloud
+- [Kubernetes on AWS with Terraform and Ansible](https://github.com/angudadevops/k8s_aws)
 - [Kubernetes on AWS with Kops](https://github.com/angudadevops/k8kops_aws)
 
+### Kubernetes Add-ons
 - [Kubernetes Addons](https://github.com/angudadevops/k8s_addons)
 
 ## Hashi Corp Stack
@@ -30,11 +31,15 @@ There're multiple ways to build your kubernetes cluster, here're some of my proj
 ## OpenTracing
 - [Jaeger](https://github.com/angudadevops/jaeger-k8s)
 
+## Service Mesh 
+- [Istio](https://github.com/angudadevops/istio-k8s)
+
 # Skills
 - Go
 - Python
 - Kubernetes
 - Jaeger
+- Istio
 - Docker
 - AWS
 - Openshift
