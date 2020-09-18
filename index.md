@@ -34,8 +34,8 @@ There're multiple ways to build your kubernetes cluster, here're some of my proj
 ## Service Mesh 
 - [Istio](https://github.com/angudadevops/istio-k8s)
 
-## Micro Services
-- [MicroServices](https://github.com/angudadevops/micro-services)
+
+## [MicroServices](https://github.com/angudadevops/micro-services)
 
 # Skills
 - Go
