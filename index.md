@@ -28,7 +28,7 @@ Explore Python for Development and Scripting
 - [Python Web Devlopement](https://github.com/angudadevops/Python-Developement)
 
 ## Go
-Golag Web Application
+Golang Web Application
 - [Go Web Application](https://github.com/angudadevops/golang_webapp)
 
 ## OpenTracing
@@ -46,6 +46,7 @@ Build and Implement MicroServices with Python and Golang
 - Go
 - Python
 - Kubernetes
+- Helm
 - Docker
 - Jaeger
 - Istio
