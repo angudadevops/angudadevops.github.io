@@ -3,18 +3,20 @@ logo: "/images/round.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   <a href="https://www.linkedin.com/in/anuragguda/">View My LinkedIn Profile</a> 
-Skills
-- Go
-- Python
-- Kubernetes
-- Helm
-- Docker
-- Jaeger
-- Istio
-- AWS
-- Openshift
-- CI/CD
-- Terraform
-- Ansible
+  <br>
+  <p>Skills
+      - Go
+      - Python
+      - Kubernetes
+      - Helm
+      - Docker
+      - Jaeger
+      - Istio
+      - AWS
+      - Openshift
+      - CI/CD
+      - Terraform
+      - Ansible
+      </p>
 theme: jekyll-theme-minimal
 
