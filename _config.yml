@@ -4,19 +4,18 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/anuragguda/">View My LinkedIn Profile</a> 
   <br>
-  <p>Skills
-      - Go
-      - Python
-      - Kubernetes
-      - Helm
-      - Docker
-      - Jaeger
-      - Istio
-      - AWS
-      - Openshift
-      - CI/CD
-      - Terraform
-      - Ansible
-      </p>
+  <p>Skills</p>
+  <p> - Go</p>
+  <p> - Python</p>
+  <p> - Kubernetes</p>
+  <p> - Helm</p>
+  <p> - Docker</p>
+  <p> - Jaeger</p>
+  <p> - Istio</p>
+  <p> - AWS</p>
+  <p> - Openshift</p>
+  <p> - CI/CD</p>
+  <p> - Terraform</p>
+  <p> - Ansible</p>
 theme: jekyll-theme-minimal
 
