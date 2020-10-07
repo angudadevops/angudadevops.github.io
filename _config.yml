@@ -8,3 +8,8 @@ theme: minima
 author:
   name: Anurag Guda
   email: "anuragmsu@gmail.com"
+minima:
+  social_links:
+    twitter: GudaAnurag
+    github: angudadevops
+    linkedin: anuragguda
