@@ -13,7 +13,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p> - CI/CD</p>
   <p> - Terraform</p>
   <p> - Ansible</p>
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/anuragguda/">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
 
