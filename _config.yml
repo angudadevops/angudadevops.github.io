@@ -1,13 +1,8 @@
 title: Anurag Guda
 logo: "/images/round.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-theme: minima
-
-social_links:
-  twitter: GudaAnurag
-  github: angudadevops
-  linkedin: anuragguda
-author:
-  name: Anurag Guda
-  email: "anuragmsu@gmail.com"
+  <br><br>
+  <a href="https://www.linkedin.com/in/anuragguda/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/angudadevops">View My GitHub Profile</a>
+theme: jekyll-theme-minimal
 
