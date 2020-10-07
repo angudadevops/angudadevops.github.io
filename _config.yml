@@ -3,6 +3,7 @@ logo: "/images/round.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
   <br><br>
-  <a href="https://www.linkedin.com/in/anuragguda/">View My LinkedIn Profile</a> 
-  <a href="https://github.com/angudadevops">View My GitHub Profile</a>
+github:
+  github_url: https://github.com/angudadevops
+  LinkedIn_url: https://www.linkedin.com/in/anuragguda/
 theme: jekyll-theme-leap-day
