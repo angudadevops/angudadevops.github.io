@@ -1,9 +1,6 @@
 title: Anurag Guda
 logo: "/images/round.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-
-<a href="https://github.com/angudadevops">View My GitHub Profile</a>
-<a href="https://www.linkedin.com/in/anuragguda/">View My LinkedIn Profile</a> 
 theme: minima
 minima:
   social_links:
