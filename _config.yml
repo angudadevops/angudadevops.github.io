@@ -5,3 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
 <a href="https://github.com/angudadevops">View My GitHub Profile</a>
 <a href="https://www.linkedin.com/in/anuragguda/">View My LinkedIn Profile</a> 
 theme: minima
+author:
+  name: Anurag Guda
+  email: "anuragmsu@gmail.com"
