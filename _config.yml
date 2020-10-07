@@ -6,4 +6,4 @@ description: > # your text below (remove <br> elements if you don't need line br
 github:
   github_url: https://github.com/angudadevops
   LinkedIn_url: https://www.linkedin.com/in/anuragguda/
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minima
