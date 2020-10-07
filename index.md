@@ -42,17 +42,3 @@ Setup Service Mesh(istio) and deploy istio rules to route the traffic
 Build and Implement MicroServices with Python and Golang
 ## [Micro Services](https://github.com/angudadevops/micro-services)
 
-# Skills
-- Go
-- Python
-- Kubernetes
-- Helm
-- Docker
-- Jaeger
-- Istio
-- AWS
-- Openshift
-- CI/CD
-- Terraform
-- Ansible
-
