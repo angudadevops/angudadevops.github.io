@@ -9,6 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p> - Jaeger</p>
   <p> - Istio</p>
   <p> - AWS</p>
+  <p> - Azure</p>
   <p> - Openshift</p>
   <p> - CI/CD</p>
   <p> - Terraform</p>
