@@ -7,7 +7,7 @@ There're multiple ways to build your kubernetes cluster, here're some of my proj
 - [Kubernetes on your own VM's](https://github.com/angudadevops/kubernetes_baremetal)
 
 ### Cloud
-- [Kubernetes on AWS with Terraform and Ansible](https://github.com/angudadevops/k8s_aws)
+- [Kubernetes on AWS or Azure with Terraform and Ansible](https://github.com/angudadevops/k8s-on-cloud)
 - [Kubernetes on AWS with Kops](https://github.com/angudadevops/k8kops_aws)
 
 ### Kubernetes Add-ons
