@@ -1,7 +1,7 @@
 # Projects
 
 ## Kubernetes
-There're multiple ways to build your kubernetes cluster, here're some of my projects that can help you to build your clusters
+There're multiple ways to build your kubernetes cluster, here're some of my projects that can help you to build your own kubernetes clusters
 
 - [Single Node Kubernetes Cluster](https://github.com/angudadevops/singlenode_kubernetes)
 - [Kubernetes on your own VM's](https://github.com/angudadevops/kubernetes_baremetal)
