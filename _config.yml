@@ -1,15 +1,16 @@
 title: Anurag Guda
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h2>Skills</h2>
-  <p> - Go</p>
   <p> - Python</p>
   <p> - Kubernetes</p>
   <p> - Helm</p>
+  <p> - Go</p>
   <p> - Docker</p>
   <p> - Jaeger</p>
   <p> - Istio</p>
   <p> - AWS</p>
   <p> - Azure</p>
+  <p> - GCP</p>
   <p> - Openshift</p>
   <p> - CI/CD</p>
   <p> - Terraform</p>
