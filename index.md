@@ -28,8 +28,8 @@ Explore Python for Development and Scripting
 - [Python Web Devlopement](https://github.com/angudadevops/Python-Developement)
 
 ## Go
-Golang Web Application
 - [Go Web Application](https://github.com/angudadevops/golang_webapp)
+- [Kubernetes Operator](https://github.com/angudadevops/service-deployment-operator)
 
 ## OpenTracing
 Opentrace your application with Jaeger
