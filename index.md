@@ -19,7 +19,7 @@ Install and Setup Hashi Corp Tool
 - [Hashi Corp Tools](https://github.com/angudadevops/hashi-stack)
 
 ## CI/CD
-Standard way to setup your Spinnaker cluster to deploy on Kubernetes Clusters
+Standard way to setup your CI/CD to your kubernetes cluster 
 - [Spinnaker Setup](https://github.com/angudadevops/spinnaker)
 - [Jenkins](https://github.com/angudadevops/jenkins)
 
